@@ -9,8 +9,8 @@ El sistema es un medidor de alcohol, esto lo toma a través de un sensor conecta
 La transmición de los datos sólo se realizará cuando se oprima el pulsador (BUTTON1), los datos se mostraran cada medio segundo.
 La implementación de maquina de estados se realizo con el único púlsador del sistema (BUTTON1).
 # Vistas
-<img src="https://github.com/SNolasco86/TP1/blob/main/placa_1.jpeg" width="425" height="495">
-<img src="https://github.com/SNolasco86/TP1/blob/main/placa_2.jpeg" width="425" height="495">
+<img src="https://github.com/SNolasco86/TP-2/blob/SNolasco86-patch-1/placa_1.jpeg" width="425" height="495">
+<img src="https://github.com/SNolasco86/TP-2/blob/SNolasco86-patch-1/placa_2.jpeg" width="425" height="495">
 
 # Consideraciones de la Placa
 
